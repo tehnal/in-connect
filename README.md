@@ -15,6 +15,7 @@ From here, run the script "connectbot.py", either from the terminal (python3 con
 You can then do nothing as the bot does its thing.
 
 
+
 - FAILSAFE -  
 If the code isn't working properly, then slam your cursor to one of the 4 corners of your screen. Pyautogui has a failsafe installed that will break the current run if your cursor is in the corner. 
 
@@ -30,3 +31,5 @@ However, I believe if I were to code it so that the mouse were to move slow, cli
 - SCRIPT STRUCTURE - 
 The main script is in "connectbot.py". The "functions.py" script is used as storage for the functions used within the main script.
 
+- DISCLAIMER -
+It is worth noting that I wrote this to work well FOR ME. Not to be used by others. Which because of this, it is perfectly calibrated to my display and setup. If you were to reuse this, there would be a little bit of work to make it truly work.
