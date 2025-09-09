@@ -33,3 +33,4 @@ The main script is in "connectbot.py". The "functions.py" script is used as stor
 
 - DISCLAIMER -
 It is worth noting that I wrote this to work well FOR ME. Not to be used by others. Which because of this, it is perfectly calibrated to my display and setup. If you were to reuse this, there would be a little bit of work to make it truly work.
+It is also important to note that this is meant to be a TEST project. I have never used this to connect with anyone on Linkedin, nor do I want anyone to by using this script.
