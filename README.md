@@ -1,11 +1,11 @@
 # in-connect
 
-- ABSTRACT -
+- OVERVIEW-
 The Linkedin Connect Bot is a tool for people - particularly students - to rapidly grow their connections. It emphasizes people in their immediate network such as their school or prior connections. 
 
 - MAIN - 
 This project is intended to be a fun little test, using pyautogui in order to open linkedin, go to the "Grow your network"
-section, and connect with everyone it "sees". 
+section, and connect with everyone it "sees". While it might seem a little... "spammy", I intend for this to be more of a showcase project than a real "connect with everyone possible" project.
 
 
 - SET UP and USE -
@@ -22,8 +22,7 @@ If the code isn't working properly, then slam your cursor to one of the 4 corner
 
 - ISSUES AND WARNINGS -
 There are a few things that are kind of an issue with this bot. Primarily, the linkedin terms and conditions.
-There are certain rules against using bots (primarily clause (insert clause here)), which states that you cannot use bots/
-scrapers on linkedin.
+There are certain rules against using bots which states that you cannot use bots/scrapers on linkedin.
 However, I believe if I were to code it so that the mouse were to move slow, click at irregular intervals, and not be so precise
 / fast - all of which I can do - then the bot would pass undetected. 
 
